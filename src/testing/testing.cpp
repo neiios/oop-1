@@ -61,3 +61,10 @@ void generateNewFiles() {
     generateStudents(10, i);
   }
 }
+
+void testClass() {
+  for (int i = 100000; i <= 10000000; i *= 10) {
+    cout << "Vector:\n";
+    divideFile<vector<student>>(i);
+  }
+}
