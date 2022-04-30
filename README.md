@@ -1,4 +1,4 @@
-# 1-oji objektinio programavimo užduotis
+# Objektinio programavimo užduotis 0.1 - 1.0
 
 ## Programos kompiliavimas ir paleidimas
 
